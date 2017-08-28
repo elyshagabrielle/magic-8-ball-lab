@@ -2,7 +2,7 @@
 
 ![alt text](https://www.horoscope.com/images-US/imag-game_magic-8-ball.jpg "Logo Title Text 1")
 
-### Why wait for the rest of the world to remember that the toys of generations past are still ~all the rage~ when you could build them yourself... VR style.
+### Why wait for the rest of the world to remember that the toys of generations past are still _all the rage_ when you could build them yourself... VR style.
 
 ###### Magic-8 Balls have been sold from 1950, and it's time we gave our old fortune telling friend an upgrade. Design your very own virtual reality magic 8-ball.
 1. Your MVP should shake and display a response when you click on it. Feel free to get creative with your magic-8-ball’s possible responses. Whatever you choose to make your responses make sure that the one being displayed is randomized. 
