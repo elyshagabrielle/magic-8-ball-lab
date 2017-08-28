@@ -13,3 +13,5 @@
     * Have your triangle spin inside your ball as it shakes. 
 3. Add some mood music to your game, build the suspense with some intense background music.
 4. Try out the textwrap component for A-frame to get your text to perfectly stay on your triangle. You'll need to create copies of the aframe-textwrap-component.js and include a script tag for it as well as the aframe-draw-component.js(you'll have to Google this separately). Add two script tags to your html linking these files in and then follow the given example for the textwrap component to get it working. Ignore the instructions on how to install the component; including the files will take care of that.
+
+You can find a completed example <a href="https://twant.github.io/magic-8-ball-with-example/">here</a>!
